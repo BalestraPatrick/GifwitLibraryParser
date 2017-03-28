@@ -1,6 +1,6 @@
 # GifwitLibraryParser
 
-A small elixir program to parse your [gifwit](http://gifwit.com) library and download all the gifs. Each gif will be named as all of its tags joined with `-` betwene them.
+A small elixir program to parse your [gifwit](http://gifwit.com) library and download all the gifs. Each gif will be named as all of its tags joined with `-` between them.
 
 ## Example:
 
